@@ -571,7 +571,7 @@ ul.conat_info li a:hover {
 
 .vehicles {
      background-color: #fff;
-     padding: 70px 0 155px 0;
+     /* padding: 70px 0 155px 0; */
 }
 
 .vehicles .titlepage {
